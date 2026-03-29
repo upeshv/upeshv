@@ -17,11 +17,12 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | PHP (Expert), Node.js, Express, Python |
-| **Frontend** | React.js, JavaScript (ES6+), Sass/SCSS, HTML5/CSS3 |
+| **Core Engineering** | WordPress (Headless/Custom Architecture), PHP (PSR4), JavaScript (ES5/ES6, Vanilla), HTML5, CSS3/Sass. |
+| **API & Integrations** | WP REST API, GraphQL, Webhooks, and third-party APIs (Mailchimp, Salesforce, Amplitude). |
 | **WordPress** | Core Architecture, Custom Theme/Plugin Development, Bedrock/Sage |
-| **DevOps** | Docker, CI/CD (Jenkins, GitHub Actions), AWS |
-| **Databases** | MySQL, PostgreSQL, Redis |
+| **DevOps & Automation** | GitHub Actions, Jenkins, Travis CI, Docker, WPEngine Enterprise scaling. |
+| **Build Tools & Quality** | Gulp, Webpack, NPM, ESLint, PHPCS, Prettier. |
+| **Modern Workflows - AI Orchestration** | AI Enablement (GitHub Copilot, WP Agents, Figma-to-MCP pipelines).. |
 
 ---
 
