@@ -29,8 +29,6 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 
 ---
 
----
-
 ## 🛠️ My Technical Toolbox
 
 | Category | Technologies |
