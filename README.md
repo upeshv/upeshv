@@ -26,6 +26,59 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 
 ---
 
+## 🏆 Career Projects & Milestone Achievements
+*Strategic leadership and technical execution during my 7-year tenure at BrowserStack.*
+
+<details>
+<summary><b>🤖 AI Optimization & Figma-to-MCP Pipeline</b></summary>
+
+- **AI Enablement:** Led Copilot adoption for 14 CMS squads, achieving a **25% lift in developer velocity**.
+- **Architectural Innovation:** Developed an automated **Figma-to-MCP server pipeline**, bridging the gap between UI design and frontend scaffolding using Model Context Protocol.
+- **SDD Frameworks:** Implemented structured SDD to optimize AI output, reducing manual refactoring by 20%.
+</details>
+
+<details>
+<summary><b>🌐 Enterprise Website Revamp & Engineering Automation</b></summary>
+
+- **Scale:** Directed a **5,000+ page architectural overhaul** across WordPress and documentation platforms.
+- **Performance:** Engineered a **CWV monitoring suite**, resolving critical **INP (Interaction to Next Paint)** bottlenecks across 2,000+ high-traffic pages.
+- **Efficiency:** Automated the "Guide Publishing" lifecycle, increasing output by **150% (2.5x)** and recapturing 37.5 hours of monthly engineering bandwidth.
+</details>
+
+<details>
+<summary><b>📦 Infrastructure: WPEngine Staging Re-Design</b></summary>
+
+- **Resource Optimization:** Consolidated fragmented upload directories into a centralized master storage, recovering **30GB+ of high-cost storage**.
+- **Cost Reduction:** Achieved an annual hosting cost reduction of **~$1,200** by streamlining environment utilization.
+- **Scalability:** Engineered a framework allowing rapid deployment of marketing sites without increasing infrastructure overhead.
+</details>
+
+<details>
+<summary><b>🔄 Global Migration: Rails to WordPress</b></summary>
+
+- **Execution:** Architected the end-to-end migration of **3,200+ documentation pages** from legacy Ruby on Rails to custom WordPress in just 4 months.
+- **Custom Tooling:** Developed a Documentation Dashboard using WP Hooks/Filters for real-time CRUD tracking.
+- **Automation:** Built a **GitHub Actions CI/CD pipeline** to sync Markdown-based docs via the WordPress REST API.
+</details>
+
+<details>
+<summary><b>⚡ Performance: BrowserStack Speed Optimization</b></summary>
+
+- **Speed Benchmarks:** Achieved Desktop (1.2s - 1.8s) and Mobile (1.6s - 2.3s) load times.
+- **Technical Refactor:** Completely replaced jQuery with **Vanilla JS** and implemented lazy-loaded Sentry.
+- **Advanced Tactics:** Implemented dynamic **First Fold CSS**, asset bundling, and internal URL prefetching.
+</details>
+
+<details>
+<summary><b>⚙️ Engineering Operations (OKRs)</b></summary>
+
+- **Environment Sync:** Created Jenkins jobs for daily Production-to-Staging DB synchronization.
+- **CI/CD Integration:** Integrated GitHub pipelines with WPEngine and automated asset compilation.
+- **Process Excellence:** Established standardized protocols for WP/PHP/Plugin upgrades and real-time Slack webhook alerts.
+</details>
+
+---
+
 ## 📂 Active Professional Labs
 *While my 7-year history at BrowserStack is within private enterprise environments, I am currently documenting my architectural standards here:*
 
