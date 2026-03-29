@@ -14,7 +14,7 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 ---
 
 ## 🚀 [View My Detailed Project Portfolio & Case Studies](https://github.com/upeshv/portfolio)
-*Deep dives into **Rails-to-WP Migrations**, **CI/CD Automation**, and **Infrastructure Cost Optimization**.*
+*Deep dives into **AI Optimization & Figma-to-MCP Pipeline**, **Enterprise Website Revamp & Engineering Automation**, **Rails-to-WP Migrations** and **Infrastructure Cost Optimization**.*
 
 ---
 
