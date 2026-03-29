@@ -93,8 +93,6 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 
 ---
 
----
-
 ## 📊 GitHub Insights
 
 | **GitHub Statistics** | **Contribution Streak** |
