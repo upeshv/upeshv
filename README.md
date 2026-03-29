@@ -35,15 +35,15 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 ---
 
 ## 📊 GitHub Insights
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=upeshv&show_icons=true&theme=tokyonight" alt="Stats" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=upeshv&theme=tokyonight" alt="Streak" /></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upeshv&layout=compact&theme=tokyonight" width="100%" alt="Languages" /></td>
-  </tr>
-</table>
+
+| **GitHub Statistics** | **Contribution Streak** |
+| :--- | :--- |
+| ![Upesh's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=upeshv&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upeshv&theme=tokyonight) |
+
+---
+
+### 💻 Language Mix
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=upeshv&layout=compact&theme=tokyonight)
 
 ---
 
