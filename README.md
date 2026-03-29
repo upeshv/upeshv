@@ -13,7 +13,7 @@ I am a high-impact **Engineering enthusiast** with over **11 years of profession
 
 ---
 
-## 🚀 [View My Detailed Project Portfolio & Case Studies](https://github.com/upeshv/portfolio)
+## 🚀 [View My Detailed Project Portfolio & Case Studies](https://upeshv.github.io/portfolio/)
 *Deep dives into **AI Optimization & Figma-to-MCP Pipeline**, **Enterprise Website Revamp & Engineering Automation**, **Rails-to-WP Migrations**, **Performance: BrowserStack Speed Optimization**, **Infrastructure Cost Optimization** and **Engineering Operations (OKRs)**.*
 
 ---
