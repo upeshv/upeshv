@@ -87,7 +87,7 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 | [WP-Cache-Bundling](https://github.com/upeshv/WP-Cache-Bundling) | **Scalability Lab:** Advanced logic for asset bundling and cache management to reduce server-side overhead and TTFB. |
 | [enterprise-wp-standards](https://github.com/upeshv/enterprise-wp-standards) | **The Architect's Manifesto:** Sanitized performance, security, and leadership frameworks from a 7-year tenure at BrowserStack. |
 | [wp-performance-toolkit](https://github.com/upeshv/wp-performance-toolkit) | **Speed Lab:** High-efficiency snippets and configurations for achieving 100/100 Core Web Vitals (CWV) benchmarks. |
-| [jenkins-scripts](https://github.com/upeshv/jenkins-scripts) | **DevOps Lab:** Automation workflows for Production-to-Staging DB syncs and CI/CD pipelines used at an enterprise level. |
+| [jenkins-scripts](https://github.com/upeshv/jenkins-scripts) | **DevOps Lab:** Enterprise Jenkins Automation: Groovy scripts to trigger CI/CD pipelines and status checks specifically on GitHub Pull Request merges or to run any status check CI/CD integratons etc. |
 | [WP-REST-API](https://github.com/upeshv/WP-REST-API) | **Headless Lab:** Custom implementations and extensions for the WordPress REST API to support modern frontend scaffolding. |
 | [Mailchimp-API-Integration](https://github.com/upeshv/Mailchimp-API-Integration) | **Marketing Automation:** Secure, performance-optimized Mailchimp API integration for growth-driven WordPress ecosystems. |
 
