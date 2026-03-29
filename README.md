@@ -40,7 +40,7 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 ---
 
 ## 📫 Let's Connect
-- 💼 **[LinkedIn Profile](https://www.linkedin.com/in/upeshv)**
+- 💼 **[LinkedIn Profile](https://www.linkedin.com/in/upesh-vishwakarma/)**
 - 📍 Mumbai, India
 - 💬 Ask me about **Scaling WordPress**, **Engineering Productivity**
 
