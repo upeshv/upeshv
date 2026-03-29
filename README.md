@@ -70,8 +70,11 @@ I am a high-impact **Engineering enthusiast** with over **11 years of profession
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/upeshv)
-- 📍 Mumbai, India
-- ⚡ Ask me about **Scaling WordPress**, **Engineering Productivity**, or **Indian Equity Markets**.
+*I am always open to discussing WordPress architecture, engineering leadership, or high-scale web performance.*
+
+- 📧 **Email:** [vishwa.upesh@gmail.com](mailto:vishwa.upesh@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/upeshv](https://linkedin.com/in/upeshv)
+- 📍 **Location:** Mumbai, India
+- ⚡ **Personal Interest:** Code, Learning from Videos, Playing Chess & Travel.
 
 ---
