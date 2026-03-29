@@ -18,8 +18,6 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 
 ---
 
-
-## 🛠️ Things I Code With
 ## 🛠️ Things I Code With
 *A visual snapshot of my enterprise stack.*
 
