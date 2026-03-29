@@ -80,10 +80,18 @@ I am a high-impact **Engineering Leader** with over **11 years of professional e
 ---
 
 ## 📂 Active Professional Labs
-*While my 7-year history at BrowserStack is within private enterprise environments, I am currently documenting my architectural standards here:*
+*A curated collection of architectural standards, performance toolkits, and automation scripts developed through 11+ years of engineering.*
 
-- 🏗️ **[enterprise-wp-standards](https://github.com/upeshv/enterprise-wp-standards)**: My manifesto on performance, security, and leadership frameworks.
-- ⚡ **[wp-performance-toolkit](https://github.com/upeshv)**: Optimized patterns for achieving 100/100 PageSpeed scores.
+| Repo | Description |
+| :--- | :--- |
+| [enterprise-wp-standards](https://github.com/upeshv/enterprise-wp-standards) | **The Architect's Manifesto:** Sanitized performance, security, and leadership frameworks from a 7-year tenure at BrowserStack. |
+| [wp-performance-toolkit](https://github.com/upeshv/wp-performance-toolkit) | **Speed Lab:** High-efficiency snippets and configurations for achieving 100/100 Core Web Vitals (CWV) benchmarks. |
+| [WP-Cache-Bundling](https://github.com/upeshv/WP-Cache-Bundling) | **Scalability Lab:** Advanced logic for asset bundling and cache management to reduce server-side overhead and TTFB. |
+| [jenkins-scripts](https://github.com/upeshv/jenkins-scripts) | **DevOps Lab:** Automation workflows for Production-to-Staging DB syncs and CI/CD pipelines used at an enterprise level. |
+| [WP-REST-API](https://github.com/upeshv/WP-REST-API) | **Headless Lab:** Custom implementations and extensions for the WordPress REST API to support modern frontend scaffolding. |
+| [Mailchimp-API-Integration](https://github.com/upeshv/Mailchimp-API-Integration) | **Marketing Automation:** Secure, performance-optimized Mailchimp API integration for growth-driven WordPress ecosystems. |
+
+---
 
 ---
 
