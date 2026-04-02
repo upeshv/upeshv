@@ -47,6 +47,7 @@ I am a high-impact **Engineering enthusiast** with over **11 years of profession
 
 | Repo | Description |
 | :--- | :--- |
+| [gutenberg-custom-block](https://github.com/upeshv/gutenberg-custom-block) | **UX Engineering Lab:** Modern, React-based Gutenberg block built to API v3 standards, focusing on Accessibility (A11y), Semantic HTML, and Editor-side WYSIWYG experience. |
 | [WP-Cache-Bundling](https://github.com/upeshv/WP-Cache-Bundling) | **Scalability Lab:** Advanced logic for asset bundling and cache management to reduce server-side overhead and TTFB. |
 | [enterprise-wp-standards](https://github.com/upeshv/enterprise-wp-standards) | **The Architect's Manifesto:** Sanitized performance, security, and leadership frameworks from a 7-year tenure at BrowserStack. |
 | [wp-performance-toolkit](https://github.com/upeshv/wp-performance-toolkit) | **Speed Lab:** High-efficiency snippets and configurations for achieving 100/100 Core Web Vitals (CWV) benchmarks. |
