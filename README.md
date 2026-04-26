@@ -47,6 +47,7 @@ I am a high-impact **Engineering enthusiast** with over **11 years of profession
 
 | Repo | Description |
 | :--- | :--- |
+| [advanced-gutenberg-post-grid](https://github.com/upeshv/advanced-gutenberg-post-grid) | **Advanced Blocks Lab:** High-performance post grid built to Gutenberg API v3 standards. Implements advanced Data Fetching, State Management, and React Hooks for complex components, with a focus on SSR and custom object caching to optimize Core Web Vitals. |
 | [gutenberg-custom-block](https://github.com/upeshv/gutenberg-custom-block) | **UX Engineering Lab:** Modern, React-based Gutenberg block built to API v3 standards, focusing on Accessibility (A11y), Semantic HTML, and Editor-side WYSIWYG experience. |
 | [WP-Cache-Bundling](https://github.com/upeshv/WP-Cache-Bundling) | **Scalability Lab:** Advanced logic for asset bundling and cache management to reduce server-side overhead and TTFB. |
 | [WP-REST-API](https://github.com/upeshv/WP-REST-API) | **Headless Lab:** Custom implementations and extensions for the WordPress REST API to support modern frontend scaffolding. |
