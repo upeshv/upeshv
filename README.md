@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Upesh Vishwakarma
-### Senior WordPress Full Stack Engineer | WordPress Architect | Sr. Technical Lead
+### Senior WordPress Full Stack Engineer | WordPress & Full Stack Architect | Sr. Technical Lead
 
 I am a high-impact **Engineering enthusiast** with over **11 years of professional experience** building and scaling enterprise web ecosystems. For the past **7 years**, I have served as a **Senior Team Lead at BrowserStack**, directing high-velocity squads and serving as the primary technical authority for global WordPress architectures.
 
