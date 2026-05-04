@@ -75,7 +75,7 @@ I am a high-impact **Engineering enthusiast** with over **11 years of profession
 *I am always open to discussing WordPress architecture, engineering leadership, or high-scale web performance.*
 
 - 📧 **Email:** [vishwa.upesh@gmail.com](mailto:vishwa.upesh@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/upeshv](https://linkedin.com/in/upeshv)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/upesh-vishwakarma/](https://www.linkedin.com/in/upesh-vishwakarma/)
 - 📍 **Location:** Mumbai, India
 - ⚡ **Personal Interest:** Code, Learning from Videos, Playing Chess & Travel.
 
