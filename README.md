@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Upesh Vishwakarma
 ### Sr. Full Stack Engineer & Engineering Lead | React, TypeScript, JavaScript, Python, PHP & WordPress Architect | CI/CD Automation | AI Driven SDLC
 
-I am a high-impact **Engineering enthusiast** with over **11 years of professional experience** building and scaling enterprise web ecosystems. For the past **7 years**, I have served as a **Senior Techincal Lead at BrowserStack**, directing high-velocity squads and serving as the primary technical authority for global web architectures.
+I am a high-impact **Engineering enthusiast** with over **12 years of professional experience** building and scaling enterprise web ecosystems. For the past **7 years**, I have served as a **Senior Techincal Lead at BrowserStack**, directing high-velocity squads and serving as the primary technical authority for global web architectures.
 
 ---
 
