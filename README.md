@@ -6,7 +6,7 @@ I am a high-impact **Engineering enthusiast** with over **13 years of profession
 ---
 
 ## 🏆 At a Glance
-- **Enterprise Scale:** Managed a **5,000+ page** ecosystem supporting 14+ global functions.
+- **Enterprise Scale:** Built and scaled a **5 Millions plus montly sessions** ecosystem supporting 14+ global functions.
 - **Performance Expert:** Achieved **100% Core Web Vitals (CWV)** and WCAG compliance.
 - **Innovation Leader:** Boosted dev velocity by **25%** through AI-driven workflows (WP Agents).
 - **Architecture:** Specialist in Rails-to-WP migrations and **Figma-to-MCP** pipelines.
